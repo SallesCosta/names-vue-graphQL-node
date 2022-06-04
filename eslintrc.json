@@ -1,0 +1,8 @@
+{
+  "eslint.validate": [
+    {
+      "language": "vue",
+      "autoFix": "false"
+    }
+  ]
+}

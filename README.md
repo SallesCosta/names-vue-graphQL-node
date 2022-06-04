@@ -1,4 +1,4 @@
-# branas
+# Names - VueJS - GraphQL - Node 
 
 ## Project setup
 ```
